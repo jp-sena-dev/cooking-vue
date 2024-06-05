@@ -24,7 +24,7 @@ Em sua CLI (Linha de comando), utilize:
 - `yarn dev` ou `npm dev`;
 
 ## :hammer_and_wrench: Principais ferramentas e serviços
-- [vue.js](https://pt-br.reactjs.org/);
+- [vue.js](https://vuejs.org/);
 
 <div align="center">
   <a href="https://pt-br.reactjs.org/">
